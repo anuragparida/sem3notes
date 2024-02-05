@@ -1,0 +1,8 @@
+Bilinear Transformation -
+https://elearning.thws.de/pluginfile.php/1771025/mod_resource/content/1/Lecture_20220517.mp4
+
+Correlation Signals and LTI -
+https://elearning.thws.de/pluginfile.php/1771029/mod_resource/content/1/Lecture_20220621.mp4
+
+Time Discrete fns
+https://elearning.thws.de/pluginfile.php/1771031/mod_resource/content/1/Lecture_20220630.mp4
