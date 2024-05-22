@@ -1,7 +1,10 @@
-control systems probably
-CE 2b Robot Programming
+distributed systems
+stats
+
+
+req engg/3d machine vision
 Actuators
-Specialisation modules 1,2,3 will we have humanoid and service robotics?
+HRI1, Speech Synthesis
 
 robotics project
 
